@@ -1,1 +1,1 @@
-# Linear-regression  Basic
+# Linear-regression  Logistic regression MATH
